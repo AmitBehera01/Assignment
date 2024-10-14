@@ -1,0 +1,6 @@
+MyStr =('This is a programming language')
+print(MyStr)
+var=MyStr.split()
+print(var)
+var.sort(reverse=True)
+print(var)
